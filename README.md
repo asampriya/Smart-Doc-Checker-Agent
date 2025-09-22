@@ -10,8 +10,9 @@ It reduces manual effort, prevents disputes, and ensures live compliance through
 
 ---
 
-## 🎨 Demo / Prototype  
-👉 [Smart Doc Checker Agent – Figma Demo](https://viral-peace-35787172.figma.site/)  
+## 🎨 Demo & Prototype  
+- Figma: [Smart Doc Checker Agent – Figma Demo](https://viral-peace-35787172.figma.site/)  
+- PPT (Canva): [Smart Doc Checker Agent – Presentation Link](https://www.canva.com/design/DAGzm6J2jk4/zEn1Ih8a2DxmvgeoSKPEDw/view?utm_content=DAGzm6J2jk4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e18911f9c)  
 
 ---
 
